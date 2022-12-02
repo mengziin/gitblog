@@ -1,24 +1,10 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
+[RSS Feed](https://raw.githubusercontent.com/mengziin/gitblog/master/feed.xml)
 ## 友情链接
-
-## 置顶文章
-
+| Name | Link | Desc | 
+ | ---- | ---- | ---- |
 ## 最近更新
-
-
-## 技术文章
-
-## 日记
-
-## 读书笔记
-
-
-
-## 开发笔记
-
-
+- [2023年，准备使用github开始记录生活的碎碎念](https://github.com/mengziin/gitblog/issues/1)--2022-12-02
 ## 生活
-
-
-## TODO
+- [2023年，准备使用github开始记录生活的碎碎念](https://github.com/mengziin/gitblog/issues/1)--2022-12-02
