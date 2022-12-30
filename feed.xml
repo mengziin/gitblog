@@ -1,24 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/mengziin/gitblog</id><title>RSS feed of mengziin's gitblog</title><updated>2022-12-16T12:31:18.985630+00:00</updated><author><name>mengziin</name><email>chenyumeng6@gmail.com</email></author><link href="https://github.com/mengziin/gitblog"/><link href="https://raw.githubusercontent.com/mengziin/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/mengziin/gitblog/issues/10</id><title>绩效考评</title><updated>2022-12-16T12:31:19.339104+00:00</updated><content type="html"><![CDATA[<p>零和游戏，没意思。</p>
-]]></content><link href="https://github.com/mengziin/gitblog/issues/10" rel="alternate"/><category term="碎碎念"/><published>2022-12-16T12:30:49+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/9</id><title>又是一年总结时</title><updated>2022-12-16T12:31:19.516033+00:00</updated><content type="html"><![CDATA[<p>又是一年总结时。看过很多话语类似:人生是一场长跑。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/mengziin/gitblog</id><title>RSS feed of mengziin's gitblog</title><updated>2022-12-30T06:46:59.143638+00:00</updated><author><name>mengziin</name><email>chenyumeng6@gmail.com</email></author><link href="https://github.com/mengziin/gitblog"/><link href="https://raw.githubusercontent.com/mengziin/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/mengziin/gitblog/issues/11</id><title>2022的荒诞个人总结</title><updated>2022-12-30T06:46:59.490608+00:00</updated><content type="html"><![CDATA[<h1>2022的荒诞个人总结</h1>
+<blockquote>
+<p>这是人们会说起的一年，这是人们说起就沉默的一年</p>
+<p>--贝尔托·布莱希特</p>
+</blockquote>
+<p>2022年是个人体感下相当漫长的一年，年初时候还有一种“这不过是2020年的第25个月而已”这种想法，没想到的是北京直接就迎来了变态一般的常态化核酸检测。只是这一年的苦痛，就让人抹去了2020年和2021年相对还算不错的抗疫生活状态，说明这一年的折腾确实让我们记忆深刻。</p>
+<p>去年底提到的一些今年度的目标，大抵完成的不错。现在的总结主要是提炼中心，抓住最清晰的目标，继续按着路线走下去。所以无所谓年不年终，应该写的时候就写出来，时刻有一把尺子，来主动的纠正下自己。</p>
+<h2>工作上</h2>
+<p>今年是完整的在公司工作的一年。我的感觉是，公司不管以前多么的「大」，实际上是一间「小」的公司。以前的大，是很多很多小的业务组织，堆砌起来的大。小有小的优势，优势在于集中度高，凝聚力强，行进速度快，调整能力强等等。而我感触更深则是「人」。小的团队，更好的人和更好的人在一起，可以把业务做起来的更快，同时在互相扶持下吃经验更快速的成长。</p>
+<p>上半年因为一些奇怪的节奏，有一种混乱不堪的气氛影响了大家。然后就是因为疫情的封城和长达1个多月的居家办公。我也尝试了下拿了其他公司的 offer，几番纠结下最终没有离开。现在回头想想，相信还是「人」的作用更深的影响着我。<strong>所谓孔子云：知者乐「山」，仁者乐「水」</strong>。而我，则更爱具体的「人」。</p>
+<p>回头看具体的工作上，今年是不断调整自己工作的一年。一直在接触新的业务，一直在打基础。不说出成绩，起码在能出成绩的机遇出现前，能够把该做的事做清楚，做到起码等机会出现时把握牢固的程度。我本人的优势也是在于<strong>激进的突进能力强，持续持久能力不够</strong>。今年最多的调整就在于能够放下心中过多好奇心的驱使，好好的把手头的工作做好。从以往来看，这一点的提升在更长远的工作道路上看，一定是我最大的一点工作上的收获。</p>
+<h2>家庭上</h2>
+<p>今年对于家庭的陪伴相当的不好，低质量的休闲深刻的影响了我。周末有时候更是因为自己的低情绪困扰，过成了非常没有价值的周末体验。新的一年对我来说，可能需要制定一次围绕周末家庭计划的全面OKR😂，来高质量的度过每一次的家庭周末，随着2023年全国的行程放开。应该合理的安排每周的家庭陪伴出行计划，既摆脱低质量的休闲娱乐（抖音，B站等），又能增强一家人更好的节假日经历。</p>
+<h2>英语学习</h2>
+<p>今年应该是我英语学习进展最快速的一年。读写方面的快速进步给我带来了极大的自信。以前对于通篇英文的文章我基本选择的就是一键谷歌翻译看机器划水翻译理解个囫囵吞枣。现在可以很顺利的完成大部分英文技术文章的学习，和在插件工具配合下完成散文类书籍的阅读。</p>
+<p>同时听力上面也有非常不错的进展。一些简单的面向英语学习者的 podcast 节目，我基本可以当上下班过程中磨耳朵的听力材料来听。《All Ears English Podcast》和 youtube上《Learn English with Bob the Canadian》是我最推荐新手用来磨耳朵的材料。同时由于输入量足够，在github搭建了个人数字记录自动同步的项目后，我也开始了每天强度足够的背单词计划，选择了《麦克米伦7000》和《托福junior》来完成。</p>
+<p>关于背单词的坚持问题，我的理解是别选择太简单的单词本，别选择强度不够的模式。稍微加大学习强度，这样连续坚持3天后，你会很爱惜这次的旅程的。</p>
+<h2>阅读记录</h2>
+<p>今年的阅读量完成的不错，通过微信读书的记录上来看，电子书阅读了20本，完成阅读了15本。同时纸质书完成阅读了7本。但相对我自己作为技术开发者来说，这些完成阅读的书里只有2本纸质书涉及到了技术方面，分别是《Python3基础编程》和《Flask Web开发》，其余都是文学类作品。</p>
+<p>其中一本我非常喜爱的书《纳瓦尔宝典》，由于英文阅读能力的提升，直接读了英文原版。同时非常推荐还没有读过的小伙伴们，可以上手直接读一读。阅读这个事情其实没那么重，罗翔老师说的很好：<strong>拒绝读书当然是一种愚蠢，但是因为读书而滋生出骄傲与傲慢是一种更大的愚蠢</strong>。</p>
+<p>有趣的是我偶尔能在地铁里看到手捧纸质书阅读的陌生人们，会很好奇他们在阅读什么样的书籍。在看理想podcast的一期节目中，主持人提到过：<strong>可能因为今年的各种荒谬，阅读成了一些人的避难所，开始阅读严肃文学的人正慢慢多了起来</strong>。有一次我竟看到一个人在捧着太宰治的《斜阳》默默阅读，可能他也在避难。</p>
+<h2>开源</h2>
+<p>今年年末算是正式玩起来 github 的开源。在 yihong 的帮助下，我把文字记录的 blog 和 个人数字的记录仓库都搭建了起来。同时结合了iPhone 的捷径能快速的触发 github 配置好的 actions ，整体的流程都串联的不错。同时我关心的项目在一些issues的讨论上，我也能发表下我理解的看法。2023年我会尝试提出更好的 issues ，写出第一个 pr 。</p>
+<p>本来想借着年末最后一周和小伙伴们开个分享，介绍下 github 的 actions 结合项目的自动触发和推送，但临近新冠感染“决赛圈”的最后一刻我终于中招，只能请假在家每天被偏头痛折磨的浑浑噩噩。但还有更多的时间，新的一年我会更多的记录和输出。开源于我来说，是一种增加更多可能性的探索，同时可以让我认识更多的人，还好我进入的不算太晚。</p>
+<h2>结尾</h2>
+<p>就像每一年谷歌B站等有一个年度关键词一样，2021年我写出的是「专注」，2022年我写出的是「坚持」。2023年，我想写出的是「工作」。它可以很局限，也可以很宽泛。我要做的事情，都是「工作」。</p>
+]]></content><link href="https://github.com/mengziin/gitblog/issues/11" rel="alternate"/><category term="2022"/><published>2022-12-30T06:46:29+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/10</id><title>绩效考评</title><updated>2022-12-30T06:46:59.662981+00:00</updated><content type="html"><![CDATA[<p>零和游戏，没意思。</p>
+]]></content><link href="https://github.com/mengziin/gitblog/issues/10" rel="alternate"/><category term="碎碎念"/><published>2022-12-16T12:30:49+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/9</id><title>又是一年总结时</title><updated>2022-12-30T06:46:59.832897+00:00</updated><content type="html"><![CDATA[<p>又是一年总结时。看过很多话语类似:人生是一场长跑。</p>
 <p>今年尤其感觉，人生是一场接着一场的短跑，我们是自我人生赛道的athlete,不断的training,sprint,reset,然后renewal.</p>
-]]></content><link href="https://github.com/mengziin/gitblog/issues/9" rel="alternate"/><category term="碎碎念"/><published>2022-12-14T08:09:55+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/8</id><title>工作是什么</title><updated>2022-12-16T12:31:19.663143+00:00</updated><content type="html"><![CDATA[<p>许多人追求工作上的稳定而勤勤恳恳的工作而不被淘汰， 但换个角度来思考，究竟是费尽千辛万苦从众人中脱引而出，几年后又绞尽脑汁思考下一份工作应该去哪儿来得稳定； 还是发展一个或多个稳定的关系，总是有那么一个人，在你希望更换工作时毫不犹豫的愿意以双方都乐意的条件 雇佣或者资助你来得稳定呢？</p>
+]]></content><link href="https://github.com/mengziin/gitblog/issues/9" rel="alternate"/><category term="碎碎念"/><published>2022-12-14T08:09:55+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/8</id><title>工作是什么</title><updated>2022-12-30T06:46:59.995240+00:00</updated><content type="html"><![CDATA[<p>许多人追求工作上的稳定而勤勤恳恳的工作而不被淘汰， 但换个角度来思考，究竟是费尽千辛万苦从众人中脱引而出，几年后又绞尽脑汁思考下一份工作应该去哪儿来得稳定； 还是发展一个或多个稳定的关系，总是有那么一个人，在你希望更换工作时毫不犹豫的愿意以双方都乐意的条件 雇佣或者资助你来得稳定呢？</p>
 <p>I prefer the latter way.</p>
-]]></content><link href="https://github.com/mengziin/gitblog/issues/8" rel="alternate"/><category term="碎碎念"/><published>2022-12-08T10:44:21+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/7</id><title>全面放开</title><updated>2022-12-16T12:31:19.827183+00:00</updated><content type="html"><![CDATA[<p>不庆祝 不感恩 不原谅 不忘记。</p>
-]]></content><link href="https://github.com/mengziin/gitblog/issues/7" rel="alternate"/><category term="碎碎念"/><published>2022-12-07T15:39:58+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/6</id><title>明天全员100%复工</title><updated>2022-12-16T12:31:19.986469+00:00</updated><content type="html"><![CDATA[<p>赌气一般，明天全员100%复工了。
+]]></content><link href="https://github.com/mengziin/gitblog/issues/8" rel="alternate"/><category term="碎碎念"/><published>2022-12-08T10:44:21+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/7</id><title>全面放开</title><updated>2022-12-30T06:47:00.159836+00:00</updated><content type="html"><![CDATA[<p>不庆祝 不感恩 不原谅 不忘记。</p>
+]]></content><link href="https://github.com/mengziin/gitblog/issues/7" rel="alternate"/><category term="碎碎念"/><published>2022-12-07T15:39:58+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/6</id><title>明天全员100%复工</title><updated>2022-12-30T06:47:00.313810+00:00</updated><content type="html"><![CDATA[<p>赌气一般，明天全员100%复工了。
 核酸不会查了，得病自己扛，今天村里大喇叭拼命的喊“非必要不做核酸”。</p>
 <p>我觉得这一年就像笑话一般，但我笑不出来，因内我在笑话里。</p>
-]]></content><link href="https://github.com/mengziin/gitblog/issues/6" rel="alternate"/><category term="碎碎念"/><published>2022-12-06T12:31:39+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/5</id><title>隔了两周的职场复工</title><updated>2022-12-16T12:31:20.149527+00:00</updated><content type="html"><![CDATA[<p>今天职场复工，15%的人去了公司上班。
+]]></content><link href="https://github.com/mengziin/gitblog/issues/6" rel="alternate"/><category term="碎碎念"/><published>2022-12-06T12:31:39+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/5</id><title>隔了两周的职场复工</title><updated>2022-12-30T06:47:00.474421+00:00</updated><content type="html"><![CDATA[<p>今天职场复工，15%的人去了公司上班。
 每个项目组的负责人要求到现场，下午开了一个小会同步下现有手头工作以及后续项目开展。</p>
 <p>职场办公的好处在于有27寸的4k显示器，有好用的机械键盘和 magic tracepad。我在想如果以后就开始一份全职的 remote 工作的话，要把家里的办公空间拾掇的舒舒服服。用上最好的设备来更高效的完成工作。剩下的就是好好的体验生活的美好。</p>
 <p>时间好快，12月了。今年用notion记录了一些文字，明年会采用github来记录一些碎碎念。</p>
-]]></content><link href="https://github.com/mengziin/gitblog/issues/5" rel="alternate"/><category term="碎碎念"/><published>2022-12-05T07:37:57+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/4</id><title>明天象征性复工</title><updated>2022-12-16T12:31:20.312511+00:00</updated><content type="html"><![CDATA[<p>15%人员复工，过去开开会，写一写代码就好。
+]]></content><link href="https://github.com/mengziin/gitblog/issues/5" rel="alternate"/><category term="碎碎念"/><published>2022-12-05T07:37:57+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/4</id><title>明天象征性复工</title><updated>2022-12-30T06:47:00.636375+00:00</updated><content type="html"><![CDATA[<p>15%人员复工，过去开开会，写一写代码就好。
 说不定到周五就全部复工去职场上班了呢。</p>
-]]></content><link href="https://github.com/mengziin/gitblog/issues/4" rel="alternate"/><category term="碎碎念"/><published>2022-12-04T10:46:29+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/3</id><title>退出了小区单元楼的防疫群</title><updated>2022-12-16T12:31:20.475841+00:00</updated><content type="html"><![CDATA[<p>大伙听了三年鬼话，有的人装鬼，有的人装傻。真正的人在群里也只能像傻子。</p>
-]]></content><link href="https://github.com/mengziin/gitblog/issues/3" rel="alternate"/><category term="碎碎念"/><published>2022-12-03T02:19:21+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/2</id><title>可能要全面放开了</title><updated>2022-12-16T12:31:20.629967+00:00</updated><content type="html"><![CDATA[<p>今天接连看到很多地方的核酸检测点撤了，地方公众号也宣布公交地铁不再检查核酸。</p>
+]]></content><link href="https://github.com/mengziin/gitblog/issues/4" rel="alternate"/><category term="碎碎念"/><published>2022-12-04T10:46:29+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/3</id><title>退出了小区单元楼的防疫群</title><updated>2022-12-30T06:47:00.800328+00:00</updated><content type="html"><![CDATA[<p>大伙听了三年鬼话，有的人装鬼，有的人装傻。真正的人在群里也只能像傻子。</p>
+]]></content><link href="https://github.com/mengziin/gitblog/issues/3" rel="alternate"/><category term="碎碎念"/><published>2022-12-03T02:19:21+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/2</id><title>可能要全面放开了</title><updated>2022-12-30T06:47:00.959563+00:00</updated><content type="html"><![CDATA[<p>今天接连看到很多地方的核酸检测点撤了，地方公众号也宣布公交地铁不再检查核酸。</p>
 <p>希望更大的放开早点到来。</p>
 <p>想出去看看更大的世界。</p>
-]]></content><link href="https://github.com/mengziin/gitblog/issues/2" rel="alternate"/><category term="碎碎念"/><published>2022-12-02T12:11:21+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/1</id><title>2023年，准备使用github开始记录生活的碎碎念</title><updated>2022-12-16T12:31:20.789237+00:00</updated><content type="html"><![CDATA[<p>感谢 <a href="https://github.com/yihong0618">yihong</a> 的开源gitblog。很顺畅的完成了配置。</p>
+]]></content><link href="https://github.com/mengziin/gitblog/issues/2" rel="alternate"/><category term="碎碎念"/><published>2022-12-02T12:11:21+00:00</published></entry><entry><id>https://github.com/mengziin/gitblog/issues/1</id><title>2023年，准备使用github开始记录生活的碎碎念</title><updated>2022-12-30T06:47:01.242065+00:00</updated><content type="html"><![CDATA[<p>感谢 <a href="https://github.com/yihong0618">yihong</a> 的开源gitblog。很顺畅的完成了配置。</p>
 <p>文字记录在github上，为了更好的<strong>记录</strong>和<strong>不忘记</strong>，有些时候我们可能觉得几十年都不会发生大的事情，有些时候很短的时间，可能各种不可思议的事情就会接连发生。</p>
 <p>记录，就是为了不忘记。</p>
 ]]></content><link href="https://github.com/mengziin/gitblog/issues/1" rel="alternate"/><category term="生活"/><published>2022-12-02T02:15:05+00:00</published></entry></feed>
